@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Ethical Hacker and Cyber Security Enthusiast from Nepal.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3alix01" alt="r3alix01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/r3alix01" target="blank"><img src="https://img.shields.io/twitter/follow/r3alix01?logo=twitter&style=for-the-badge" alt="r3alix01" /></a> </p>
 

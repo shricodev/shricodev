@@ -38,7 +38,7 @@
 <a href = 'https://r3alix01.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/r3alix01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<h2> My Blog Posts 📕</h2>
+<h2> My Blog Posts 📕 </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)

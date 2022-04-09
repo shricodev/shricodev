@@ -50,7 +50,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=r3alix01&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3alix01&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3alix01&layout=compact&theme=radical" />
 </a>
 <br>
 

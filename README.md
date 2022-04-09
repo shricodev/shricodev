@@ -46,10 +46,14 @@
  
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3alix01&show_icons=true&theme=radical&locale=en&layout=compact" alt="r3alix01" /></p>
+</div>
 
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3alix01&show_icons=true&theme=radical&locale=en" alt="r3alix01" /></p>
-
+</div>
+ 
 <br><h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)

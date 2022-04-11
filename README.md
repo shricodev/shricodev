@@ -51,7 +51,8 @@
 </div>
 <br/>
 <div align="left">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3alix01&exclude_repo=r3alix01.github.io&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" />
+ <!--Hiding VoiceAI because it's allocating Python in used language to almost 100% till date-->
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3alix01&exclude_repo=r3alix01.github.io,ProjectsPython,VoiceAI&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" />
 </div>
  
 <br><h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>

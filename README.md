@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Python & Java Projects
 
-- 🌱 I’m currently learning Java and AWS 
+- 🌱 I’m currently learning DSA and AWS 
 
 - 👯 I’m looking to collaborate on Open Source Projects, Tech Articles 
 

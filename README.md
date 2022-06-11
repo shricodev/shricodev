@@ -37,7 +37,7 @@
 <a href = 'https://www.twitter.com/r3alix01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;</a>
 <a href = 'https://r3alix01.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp;&nbsp;</a> 
 <a href = 'https://www.github.com/r3alix01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;</a>
-<a href = 'https://www.linkedin.com/in/shrijal-acharya007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;</a>
+<a href = 'https://www.linkedin.com/in/shrijal007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;</a>
 <a href = 'https://www.instagram.com/r3alix01/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;</a>
 
 <h2> My Blog Posts 📕 </h2>

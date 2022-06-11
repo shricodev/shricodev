@@ -54,7 +54,7 @@
 <br/>
 <div align="left">
  <!--Hiding VoiceAI because it's allocating Python in used language to almost 100% till date-->
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3alix01&exclude_repo=r3alix01.github.io&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3alix01&exclude_repo=r3alix01.github.io,VoiceAI&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" />
 </div>
  
 <br><h2> Some Programming Humor for you 😉</h2>

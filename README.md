@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r3alix01.r3alix01)
 
 </p>
-<div size='20px'> <h3>Hi! I am Shrijal, A passionate <i>Ethical Hacker<i>, <i>Programmer</i> and Cyber-Security enthusiast :smile:</h3> 
+<div size='20px'> <h3>Hi! I am Shrijal, A passionate <i>Programmer</i>, <i>Ethical Hacker<i> and Cyber-Security enthusiast :smile:</h3> 
 </div>
 
 <h2> About Me: </h2>

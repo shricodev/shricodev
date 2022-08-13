@@ -36,11 +36,11 @@
 
 <h2> Connect with me 🤝</h2>
  
-<a href = 'https://www.twitter.com/YuShx01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;</a>
-<a href = 'https://YuShx01.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp;&nbsp;</a> 
-<a href = 'https://www.github.com/YuShx01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;</a>
+<a href = 'https://www.twitter.com/YuShxPi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;</a>
+<a href = 'https://YuShxPi.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp;&nbsp;</a> 
+<a href = 'https://www.github.com/YuShxPi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;</a>
 <a href = 'https://www.linkedin.com/in/shrijal007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;</a>
-<a href = 'https://www.instagram.com/YuShx01/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;</a>
+<a href = 'https://www.instagram.com/YuShxPi/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;</a>
 
 <h2> My Blog Posts 📕 </h2>
 
@@ -51,12 +51,12 @@
 <h2> My GitHub Stats 👨‍💻 </h2>
 
 <div align="left">
-<img alt="Shrijal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YuShx01&count_private=true&show_icons=true&theme=radical" />
+<img alt="Shrijal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YuShxPi&count_private=true&show_icons=true&theme=radical" />
 </div>
 <br/>
 <div align="left">
  <!--Hiding VoiceAI because it's allocating Python in used language to almost 100% till date-->
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuShx01&exclude_repo=YuShx01.github.io,VoiceAI&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuShxPi&exclude_repo=YuShxPi.github.io&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" />
 </div>
  
 <br><h2> Some Programming Humor for you 😉</h2>

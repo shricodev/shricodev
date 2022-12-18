@@ -9,7 +9,7 @@
 
 <h2> About Me: </h2>
 
-<img width="55%" align="right" alt="Github" src="./github-banner.jpg"/>
+<img width="55%" align="right" alt="Github" src="./images/github-banner.jpg"/>
 
 
 - 🔭 I’m currently working on Python & Java Projects

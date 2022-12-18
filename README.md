@@ -40,7 +40,7 @@
 <a href = 'https://OctoPie23.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp;&nbsp;</a> 
 <a href = 'https://www.github.com/OctoPie23'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;</a>
 <a href = 'https://www.linkedin.com/in/shrijal007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;</a>
-<a href = 'https://www.instagram.com/OctoPie23/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;</a>
+<a href = '[https://www.instagram.com/OctoPie23/](https://www.instagram.com/octopie_23/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;</a>
 -->
 
 <p align="center" >

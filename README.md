@@ -52,6 +52,17 @@
 	
 </p>
 
+<h3>My Coding Profiles 👨‍💻</h3>
+<br></br>
+<p align="center">
+<a href="https://leetcode.com/OctoPiyush23/" rel="nofollow"><img src="https://img.shields.io/badge/LC-LeetCode-orange" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&amp;labelColor=ff8c00&amp;logo=LeetCode&amp;logoColor=white" style="max-width:100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/octopie23" rel="nofollow"><img src="https://img.shields.io/badge/GFG-GeeksforGeeks-green" alt="GeeksforGeeks" data-canonical-src="https://img.shields.io/badge/GFG-GeeksforGeeks-green" style="max-width:100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309" rel="nofollow"><img src="https://img.shields.io/badge/CS-CodeStudio-orange" alt="CodeStu" data-canonical-src="" style="max-width:100%;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <h2>My Blog Posts 📕 </h2>
 
 <!-- BLOG-POST-LIST:START -->

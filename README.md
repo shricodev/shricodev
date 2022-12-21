@@ -78,6 +78,8 @@
  <!--Hiding VoiceAI because it's allocating Python in used language to almost 100% till date-->
 <!--<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPie23&exclude_repo=OctoPie23.github.io&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" /> -->
 
+<h3> My Github Stats.🏆 </h3>
+
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=OctoPie23&theme=radical" alt="Shrijal Acharya" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=octopie23&count_private=true&theme=radical"/>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->

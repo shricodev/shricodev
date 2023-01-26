@@ -100,5 +100,5 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPie23&exclude_repo=OctoPie23.github.io,VoiceAI&hide=c,XSLT,css,scss,html&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPie23&exclude_repo=OctoPie23.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=radical)
 </div>

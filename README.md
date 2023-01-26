@@ -1,7 +1,7 @@
 <h1> Hello Fellow Developers <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"></h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YuShx01.YuShx01)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OctoPie23.OctoPie23)
 
 </p>
 <div size='20px'> <h3>Hi! I am Shrijal, A passionate <i>Software</i> and Security enthusiast :smile:</h3> 
@@ -21,18 +21,20 @@
 - 💬 Talk to me about Coding, Projects and Open Source 
 
 <h2> Skills 🏆</h2>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> &nbsp;</a>
-<a href= https://github.com/YuShx01?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/postgresql.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> &nbsp;</a>
 
 <h2> Connect with me 🤝</h2>
  <!--

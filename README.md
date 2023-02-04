@@ -69,6 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
+- [Problems with Changing Interests in Tech](https://shricode23.hashnode.dev/problems-with-changing-interests-in-tech)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

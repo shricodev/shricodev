@@ -61,8 +61,6 @@
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
 - [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
-- [Problems with Changing Interests in Tech](https://shricode23.hashnode.dev/problems-with-changing-interests-in-tech) <!-- this was a blog written in my old hashnode account, which userid I forgot.-->
-- [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> My Github Stats.🏆 </h2>

@@ -54,7 +54,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/octopie23" rel="nofollow"><img src="https://img.shields.io/badge/GFG-GeeksforGeeks-green" alt="GeeksforGeeks" data-canonical-src="https://img.shields.io/badge/GFG-GeeksforGeeks-green" style="max-width:100%;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309" rel="nofollow"><img src="https://img.shields.io/badge/CS-CodeStudio-orange" alt="CodeStu" data-canonical-src="" style="max-width:100%;"></a>
+<a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309" rel="nofollow"><img src="https://img.shields.io/badge/CS-CodeStudio-orange" alt="CodeStudio" data-canonical-src="" style="max-width:100%;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -62,6 +62,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
 <!-- BLOG-POST-LIST:END -->
+<!--these are the manually added blog posts -->
+- [Problems with Changing Interests in Tech](https://shricode23.hashnode.dev/problems-with-changing-interests-in-tech) <!-- this was a blog written in my old hashnode account, which userid I forgot.-->
+- [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
 
 <h2> My Github Stats.🏆 </h2>
 

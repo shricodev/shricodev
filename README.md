@@ -37,13 +37,6 @@
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> &nbsp;</a>
 
 <h2> Connect with me 🤝</h2>
- <!--
-<a href = 'https://www.twitter.com/OctoPie23'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;</a>
-<a href = 'https://OctoPie23.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp;&nbsp;</a> 
-<a href = 'https://www.github.com/OctoPie23'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;</a>
-<a href = 'https://www.linkedin.com/in/shrijal007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;</a>
-<a href = '[https://www.instagram.com/OctoPie23/](https://www.instagram.com/octopie_23/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;</a>
--->
 
 <p align="center" >
 	<a href="https://github.com/OctoPie23"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
@@ -66,42 +59,17 @@
 </p>
 
 <h2>My Blog Posts 📕 </h2>
-
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
-- [Problems with Changing Interests in Tech](https://shricode23.hashnode.dev/problems-with-changing-interests-in-tech)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
-<div align="left">
-<img alt="Shrijal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OctoPie23&count_private=true&show_icons=true&theme=radical" />
-</div>
-<br/>
-<div align="center">
- <!--Hiding VoiceAI because it's allocating Python in used language to almost 100% till date-->
-<!--<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPie23&exclude_repo=OctoPie23.github.io&layout=compact&theme=radical&langs_count=6&hide=c,Classic ASP,XSLT" /> -->
+
+- [Problems with Changing Interests in Tech](https://shricode23.hashnode.dev/problems-with-changing-interests-in-tech) <!-- this was a blog written in my old hashnode account, which userid I forgot.-->
+- [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
 
 <h2> My Github Stats.🏆 </h2>
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=OctoPie23&theme=radical" alt="Shrijal Acharya" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=octopie23&count_private=true&theme=radical"/>
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPie23&exclude_repo=OctoPie23.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=radical)
 </div>

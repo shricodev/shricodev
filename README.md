@@ -60,6 +60,7 @@
 
 <h2>My Blog Posts 📕 </h2>
 <!-- BLOG-POST-LIST:START -->
+- [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -25,6 +25,7 @@
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg'> &nbsp;</a>
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> &nbsp;</a>
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> &nbsp;</a>
+<a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=typescriptscript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> &nbsp;</a>
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> &nbsp;</a>
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> &nbsp;</a>
 <a href= https://github.com/OctoPie23?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg'> &nbsp;</a>

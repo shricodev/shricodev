@@ -62,6 +62,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
+- [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)
 - [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
 <!-- BLOG-POST-LIST:END -->
 <!--these are the manually added blog posts -->

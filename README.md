@@ -1,7 +1,7 @@
 <h1> Hello Fellow Developers <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"></h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shricodev.shricodev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=shricodev&label=VISITORS&labelColor=%23697689&countColor=%232ccce4)
 
 </p>
 <div size='20px'> <h3>Hi! I am Shrijal, A passionate <i>Software</i> and Security enthusiast :smile:</h3> 

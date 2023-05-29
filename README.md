@@ -71,8 +71,7 @@
 
 <h2> My Github Stats.🏆 </h2>
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=shricodev&theme=radical" alt="Shrijal Acharya" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=shricodev&count_private=true&theme=radical"/>
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=shricodev&theme=tokyonight" alt="Shrijal Acharya" />&nbsp; &nbsp;![Shrijal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shricodev&hide=stars&show_icons=true&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shricodev&exclude_repo=shricodev.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shricodev&exclude_repo=shricodev.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=tokyonight)
 </div>

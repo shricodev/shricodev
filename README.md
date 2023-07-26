@@ -59,6 +59,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshoot your Node.js code like a Pro!](https://shricodev.hashnode.dev/troubleshoot-your-nodejs-code-like-a-pro)
 - [Build your Portfolio with React and Tailwind in minutes](https://shricodev.hashnode.dev/build-portfolio-with-react-and-tailwind)
 - [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)
 - [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)

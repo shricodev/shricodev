@@ -39,7 +39,7 @@
 <p align="center" >
 	<a href="https://github.com/shricodev"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/shrijal007/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://shricodev.hashnode.dev/"><img alt="hashnode" width="9%" style="padding:5px" src="./images/hashnode.png"/></a>
+	<a href="https://dev.to/shricodev"><img alt="hashnode" width="9%" style="padding:5px" src="./images/ddt3.png"/></a>
 	<a href="https://www.instagram.com/shrijal_acharya/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://www.twitter.com/shricodev"><img alt="twitter" width="10%" style="padding:5px" src="./images/twitter.png"/></a>
 	

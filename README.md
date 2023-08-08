@@ -59,8 +59,9 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshoot your Node.js code like a Pro!](https://shricodev.hashnode.dev/troubleshoot-your-nodejs-code-like-a-pro)
-- [Build your Portfolio with React and Tailwind in minutes](https://shricodev.hashnode.dev/build-portfolio-with-react-and-tailwind)
+- [Effortless App Rollbacks with Docker and Version Control](https://dev.to/shricodev/effortless-app-rollbacks-with-docker-and-version-control-3ld2)
+- [Build your Portfolio with React and Tailwind in minutes](https://dev.to/shricodev/build-your-portfolio-with-react-and-tailwind-in-minutes-2d30)
+- [Troubleshoot your Node.js code like a Pro!](https://dev.to/shricodev/troubleshoot-your-nodejs-code-like-a-pro-4ljg)
 <!-- BLOG-POST-LIST:END -->
 <!--these are the manually added blog posts -->
 - [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)

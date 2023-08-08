@@ -1,18 +1,19 @@
 name: Latest blog post workflow
 on:
- schedule: # Run workflow automatically
-   # This will make it run every hour
-   - cron: '0 * * * *' 
-  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
- workflow_dispatch: 
-jobs:
- update-readme-with-blog:
-   name: Update this repo README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://shricodev.hashnode.dev/rss.xml"
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/shricodev"

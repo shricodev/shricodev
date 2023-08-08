@@ -61,10 +61,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [Troubleshoot your Node.js code like a Pro!](https://shricodev.hashnode.dev/troubleshoot-your-nodejs-code-like-a-pro)
 - [Build your Portfolio with React and Tailwind in minutes](https://shricodev.hashnode.dev/build-portfolio-with-react-and-tailwind)
-- [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)
-- [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
 <!-- BLOG-POST-LIST:END -->
 <!--these are the manually added blog posts -->
+- [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)
+- [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
 - [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
 
 <h2> My Github Stats.🏆 </h2>

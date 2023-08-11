@@ -59,7 +59,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Practices when deploying a Docker Container](https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp)
+- [5 Best Practices when deploying a Docker Container🚀](https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp)
 - [Effortless App Rollbacks with Docker and Version Control](https://dev.to/shricodev/effortless-app-rollbacks-with-docker-and-version-control-3ld2)
 - [Build your Portfolio with React and Tailwind in minutes](https://dev.to/shricodev/build-your-portfolio-with-react-and-tailwind-in-minutes-2d30)
 - [Troubleshoot your Node.js code like a Pro!](https://dev.to/shricodev/troubleshoot-your-nodejs-code-like-a-pro-4ljg)

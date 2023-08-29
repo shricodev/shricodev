@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
+- [Dev&#39;s, share something that you know that most don&#39;t](https://dev.to/shricodev/devs-share-something-that-you-know-that-most-dont-17e9)
 - [Git Bisect - The Underdog Git Command🔥](https://dev.to/shricodev/git-bisect-the-underdog-git-command-3h2p)
 - [5 Best Practices when deploying a Docker Container🚀](https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp)
 - [Effortless App Rollbacks with Docker and Version Control](https://dev.to/shricodev/effortless-app-rollbacks-with-docker-and-version-control-3ld2)
 - [Build your Portfolio with React and Tailwind in minutes](https://dev.to/shricodev/build-your-portfolio-with-react-and-tailwind-in-minutes-2d30)
-- [Troubleshoot your Node.js code like a Pro!](https://dev.to/shricodev/troubleshoot-your-nodejs-code-like-a-pro-4ljg)
 <!-- BLOG-POST-LIST:END -->
 <!--these are the manually added blog posts -->
 - [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)

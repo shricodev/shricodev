@@ -59,7 +59,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [Dev&#39;s, share something that you know that most don&#39;t](https://dev.to/shricodev/devs-share-something-that-you-know-that-most-dont-17e9)
+- [Dev&#39;s, share something you know that most don&#39;t](https://dev.to/shricodev/devs-share-something-that-you-know-that-most-dont-17e9)
 - [Git Bisect - The Underdog Git Command🔥](https://dev.to/shricodev/git-bisect-the-underdog-git-command-3h2p)
 - [5 Best Practices when deploying a Docker Container🚀](https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp)
 - [Effortless App Rollbacks with Docker and Version Control](https://dev.to/shricodev/effortless-app-rollbacks-with-docker-and-version-control-3ld2)

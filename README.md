@@ -9,9 +9,9 @@
 
 <h2> About Me: </h2>
 
-- 🔭 I’m currently working on Python & Java Projects
+- 🔭 I’m currently working on Python, Java JS, TS Projects
 
-- 🌱 I’m currently learning DSA and AWS 
+- 🌱 I’m currently learning Cloud Computing - GCP/AWS 
 
 - 👯 I’m looking to collaborate on Open Source Projects, Tech Articles 
 

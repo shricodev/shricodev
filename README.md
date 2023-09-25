@@ -61,7 +61,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [Using ORM? Try Drizzle💧](https://dev.to/shricodev/using-orm-try-drizzle-3ca0)
+- [👋Say Adios to SQL With Drizzle ORM🚀](https://dev.to/shricodev/using-orm-try-drizzle-3ca0)
 - [Dev&#39;s, share something you know that most don&#39;t](https://dev.to/shricodev/devs-share-something-that-you-know-that-most-dont-17e9)
 - [Git Bisect - The Underdog Git Command🔥](https://dev.to/shricodev/git-bisect-the-underdog-git-command-3h2p)
 - [5 Best Practices when deploying a Docker Container🚀](https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp)

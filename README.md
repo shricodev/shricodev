@@ -1,6 +1,8 @@
 [![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
 <p align='center'>
 
+<h4>My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30"></h4>
+
 ![](https://komarev.com/ghpvc/?username=shricodev&style=flat-square)
 
 </p>

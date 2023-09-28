@@ -1,10 +1,10 @@
-<h1> Hello Fellow Developers <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"></h1>
+[![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=shricodev&style=flat-square)
 
 </p>
-<div size='20px'> <h3>Hi! I am Shrijal, A passionate <i>Software</i> and Security enthusiast 🚀</h3> 
+<div size='20px'> <h3>Hi!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> I am Shrijal, A passionate <i>Software</i> and Security enthusiast 🚀</h3> 
 </div>
 
 <h2> About Me: </h2>

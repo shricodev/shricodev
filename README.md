@@ -44,7 +44,7 @@
 	<a href="https://github.com/shricodev"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/shrijal007/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://dev.to/shricodev"><img alt="dev.to" width="9%" style="padding:5px" src="./images/dev-dot-to.png"/></a>
-	<a href="https://www.instagram.com/shrijal_acharya/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.instagram.com/piyush.ach007/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://www.twitter.com/shricodevv"><img alt="twitter" width="10%" style="padding:5px" src="./images/twitter.png"/></a>
 	
 </p>

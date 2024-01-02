@@ -63,7 +63,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [Integrating AI chatbot💩 into your application in 2024 🧙🏻‍♂️🏆 is how easy? 🤔](https://dev.to/shricodev/integrating-ai-chatbot-into-your-application-in-2024-is-how-easy-147p)
+- [Integrating AI chatbot into your application in 2024 ⭐🏆 is how easy? 🤔](https://dev.to/shricodev/integrating-ai-chatbot-into-your-application-in-2024-is-how-easy-147p)
 - [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
 - [🎉One must-have tool for anyone in Data field 🤯✨](https://dev.to/shricodev/one-must-have-tool-for-anyone-in-data-field-2jek)
 - [✨Be a 10X Linux User with these tools 😎💫](https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f)

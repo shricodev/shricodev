@@ -63,11 +63,11 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
+- [✨ Top 5 Best Yet Underrated Projects that no one talks about 😎😭](https://dev.to/shricodev/top-5-best-yet-underrated-projects-that-no-one-talks-about-343h)
 - [🤯 How easy is it to integrate an AI chatbot into your app in 2024? 🏆🥳](https://dev.to/shricodev/integrate-ai-chatbot-into-your-app-in-2024-1i3p)
 - [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
 - [🎉One must-have tool for anyone in Data field 🤯✨](https://dev.to/shricodev/one-must-have-tool-for-anyone-in-data-field-2jek)
 - [✨Be a 10X Linux User with these tools 😎💫](https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f)
-- [Drizzle: ORM with SQL Superpowers🚀](https://dev.to/shricodev/using-orm-try-drizzle-3ca0)
 <!-- BLOG-POST-LIST:END -->
 <!--these are the manually added blog posts -->
 - [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)

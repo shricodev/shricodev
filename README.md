@@ -25,6 +25,7 @@
 <a href= https://github.com/shricodev?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> &nbsp;</a>
 <a href= https://github.com/shricodev?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg'> &nbsp;</a>
 <a href= https://github.com/shricodev?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> &nbsp;</a>
+<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg'> &nbsp;</a>
 <a href= https://github.com/shricodev?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> &nbsp;</a>
 <a href= https://github.com/shricodev?tab=repositories&q=&type=&language=typescriptscript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> &nbsp;</a>
 <a href= https://github.com/shricodev?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> &nbsp;</a>
@@ -45,7 +46,7 @@
 	<a href="https://www.linkedin.com/in/iamshrijal"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://dev.to/shricodev"><img alt="dev.to" width="9%" style="padding:5px" src="./images/dev-dot-to.png"/></a>
 	<a href="https://www.instagram.com/iampiyush.ach/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://www.twitter.com/shricodevv"><img alt="twitter" width="10%" style="padding:5px" src="./images/twitter.png"/></a>
+	<a href="https://www.twitter.com/shricodev"><img alt="twitter" width="10%" style="padding:5px" src="./images/twitter.png"/></a>
 	
 </p>
 

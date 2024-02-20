@@ -64,7 +64,7 @@
 
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [Hey Chads, 🗿 share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
+- [Hey Chads, share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
 - [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
 - [✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki)
 - [🤯 How easy is it to integrate an AI chatbot into your app in 2024? 🏆🥳](https://dev.to/shricodev/integrate-ai-chatbot-into-your-app-in-2024-1i3p)

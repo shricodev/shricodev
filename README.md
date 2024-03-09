@@ -10,6 +10,7 @@
   <a href="mailto:shrijal.acharya@gmail.com"><img src="https://img.shields.io/badge/Gmail-ebedf0?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shrijal i.e. shrijal.acharya@gmail.com" /></a>
   <a href="https://discordapp.com/users/1082700727220183151"><img src="https://img.shields.io/badge/Discord-ebedf0?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username shricodev" ></a>
   <a href="https://twitter.com/shricodev"><img src="https://img.shields.io/badge/Twitter-ebedf0?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+  <a href="https://app.opensauced.pizza/user/shricodev"><img src="https://img.shields.io/badge/opensauced-ebedf0?style=for-the-badge&logo=opensauced&logoColor=0A0209" alt="shricodev opensauced profile" /></a>
   <a href="https://peerlist.io/shricodev"><img src="https://img.shields.io/badge/peerlist-ebedf0?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username shricodev" ></a>
   <br/>
   <a href="https://leetcode.com/shricodev"><img src="https://img.shields.io/badge/leetcode-ebedf0?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="shricodev leetcode profile" /></a>
@@ -49,6 +50,7 @@
 
 <div align="center" >
   <a href="https://www.coursera.org/user/6f7698d69fb4ee325093383f88d8d2ff"><img src="https://img.shields.io/badge/coursera-ebedf0?style=for-the-badge&logo=coursera&logoColor=0A0209" alt="Shrijal Acharya coursera account" /></a>
+  <a href="https://app.opensauced.pizza/user/shricodev"><img src="https://img.shields.io/badge/opensauced-ebedf0?style=for-the-badge&logo=opensauced&logoColor=0A0209" alt="shricodev opensauced profile" /></a>
   <br/>
   <a href="https://leetcode.com/shricodev"><img src="https://img.shields.io/badge/leetcode-ebedf0?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="shricodev leetcode profile" /></a>
   <a href="https://auth.geeksforgeeks.org/user/octopie23"><img src="https://img.shields.io/badge/geeksforgeeks-ebedf0?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="profile of GeeksForGeeks with old username" ></a>

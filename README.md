@@ -1,81 +1,91 @@
 [![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
-<p align='center'>
 
-<h4>My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30"></h4>
+#### My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30">
 
-![](https://komarev.com/ghpvc/?username=shricodev&style=flat-square)
-
-</p>
-<div size='20px'> <h3>Hi!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> I am Shrijal, A passionate <i>Software</i> and Security enthusiast 🚀</h3> 
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshricodev"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshricodev&labelColor=%23ebedf0&countColor=%23ebedf0&labelStyle=upper" /></a>
+  <br><br>
+  <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-ebedf0?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username shricodev" /></a>
+  <a href="https://www.linkedin.com/in/shrijal007"><img src="https://img.shields.io/badge/LinkedIn-ebedf0?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username shrijal007" /></a>
+  <a href="mailto:shrijal.acharya@gmail.com"><img src="https://img.shields.io/badge/Gmail-ebedf0?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shrijal i.e. shrijal.acharya@gmail.com" /></a>
+  <a href="https://discordapp.com/users/1082700727220183151"><img src="https://img.shields.io/badge/Discord-ebedf0?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username shricodev" ></a>
+  <a href="https://twitter.com/shricodev"><img src="https://img.shields.io/badge/Twitter-ebedf0?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+  <a href="https://peerlist.io/shricodev"><img src="https://img.shields.io/badge/peerlist-ebedf0?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+  <br/>
+  <a href="https://leetcode.com/shricodev"><img src="https://img.shields.io/badge/leetcode-ebedf0?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="shricodev leetcode profile" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/octopie23"><img src="https://img.shields.io/badge/geeksforgeeks-ebedf0?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="profile of GeeksForGeeks with username octopie23 i.e. my old username" ></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309"><img src="https://img.shields.io/badge/codingninjas-ebedf0?style=for-the-badge&logo=codingninjas&logoColor=0A0209" alt="profile of CodingNinjas with my old username" ></a>
 </div>
 
-<h2> About Me: </h2>
+<br/>
 
-- 🔭 I’m currently working on Python, Java JS, TS Projects
+- 🔭 I’m currently working on Python, Java, JS, TS Projects
 
 - 🌱 I’m currently learning Cloud Computing - GCP/AWS
 
-- 🔭 I’m currently contributing to [Oppia](https://github.com/oppia/oppia) opensource project.
+- 🔭 I’m currently contributing to [Oppia](https://github.com/oppia/oppia) opensource project
 
-- 👯 I’m looking to collaborate on Open Source Projects, Tech Articles 
+- 👯 I’m looking to collaborate on Open Source Projects, Tech Articles
 
-- 💬 Talk to me about Coding, Projects, and Open Source 
+- 💬 Talk to me about Coding, Projects, and Open Source
 
-<h2> Skills 🏆</h2>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=typescriptscript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/postgresql.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> &nbsp;</a>
-<a href= https://github.com/shricodev?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> &nbsp;</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technical Skills
 
-<h2> Connect with me 🤝</h2>
-
-<p align="center" >
-	<a href="https://github.com/shricodev"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/iamshrijal"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://dev.to/shricodev"><img alt="dev.to" width="9%" style="padding:5px" src="./images/dev-dot-to.png"/></a>
-	<a href="https://www.instagram.com/iampiyush.ach/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://www.twitter.com/shricodev"><img alt="twitter" width="10%" style="padding:5px" src="./images/twitter.png"/></a>
-	
-</p>
-
-<h3>My Coding Profiles 👨‍💻</h3>
-<br></br>
 <p align="center">
-<a href="https://leetcode.com/shricodev/" rel="nofollow"><img src="https://img.shields.io/badge/LC-LeetCode-orange" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&amp;labelColor=ff8c00&amp;logo=LeetCode&amp;logoColor=white" style="max-width:100%;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- My old username which i couldn't change for GFG -->
-<a href="https://auth.geeksforgeeks.org/user/octopie23" rel="nofollow"><img src="https://img.shields.io/badge/GFG-GeeksforGeeks-green" alt="GeeksforGeeks" data-canonical-src="https://img.shields.io/badge/GFG-GeeksforGeeks-green" style="max-width:100%;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309" rel="nofollow"><img src="https://img.shields.io/badge/CS-CodeStudio-orange" alt="CodeStudio" data-canonical-src="" style="max-width:100%;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://shricodev.tech">
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,linux,gcp" />
+  </a>
 </p>
 
-## Latest Blog Posts 📩
+<p align="center">
+  <br/>
+  <a href="https://shricodev.tech">
+    <img src="https://skillicons.dev/icons?i=python,js,typescript,react,next,bash,git,html,css" />
+  </a>
+</p>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with me
+
+<div align="center" >
+  <a href="https://www.coursera.org/user/6f7698d69fb4ee325093383f88d8d2ff"><img src="https://img.shields.io/badge/coursera-ebedf0?style=for-the-badge&logo=coursera&logoColor=0A0209" alt="profile of Dev.to with username 
+  shricodev" /></a>
+  <br/>
+  <a href="https://leetcode.com/shricodev"><img src="https://img.shields.io/badge/leetcode-ebedf0?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="shricodev leetcode profile" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/octopie23"><img src="https://img.shields.io/badge/geeksforgeeks-ebedf0?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="profile of GeeksForGeeks with old username" ></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309"><img src="https://img.shields.io/badge/codingninjas-ebedf0?style=for-the-badge&logo=codingninjas&logoColor=0A0209" alt="profile of CodingNinjas with old username" ></a>
+  <br/>
+  <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-ebedf0?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username shricodev" /></a>
+  <a href="https://www.linkedin.com/in/shrijal007"><img src="https://img.shields.io/badge/LinkedIn-ebedf0?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username shrijal007" /></a>
+  <a href="mailto:shrijal.acharya@gmail.com"><img src="https://img.shields.io/badge/Gmail-ebedf0?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shrijal i.e.   shrijal.acharya@gmail.com" /></a>
+  <a href="https://discordapp.com/users/1082700727220183151"><img src="https://img.shields.io/badge/Discord-ebedf0?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username shricodev" ></a>
+  <a href="https://twitter.com/shricodev"><img src="https://img.shields.io/badge/Twitter-ebedf0?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+  <a href="https://instagram.com/iampiyush.ach"><img src="https://img.shields.io/badge/instagram-ebedf0?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+  <a href="https://peerlist.io/shricodev"><img src="https://img.shields.io/badge/peerlist-ebedf0?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+</div>
+
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Coding Profiles
+<br/>
+<p align="center">
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/leetcode-ebedf0?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="shricodev leetcode profile" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/octopie23"><img src="https://img.shields.io/badge/geeksforgeeks-ebedf0?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" alt="profile of GeeksForGeeks with old username" ></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309"><img src="https://img.shields.io/badge/codingninjas-ebedf0?style=for-the-badge&logo=codingninjas&logoColor=0A0209" alt="profile of Twitter with username shricodev" ></a>
+</p>
+
+## 🧾 Recent Blog Posts
+
+<a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> <a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
+
 <!-- BLOG-POST-LIST:START -->
-- [Hey Chads, share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
-- [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
-- [✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki)
-- [🤯 How easy is it to integrate an AI chatbot into your app in 2024? 🏆🥳](https://dev.to/shricodev/integrate-ai-chatbot-into-your-app-in-2024-1i3p)
-- [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
 <!-- BLOG-POST-LIST:END -->
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="20" height="20" /> My Old Blogging Platform - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" alt="Crying Cat" width="20" height="20" /> Sadly I lost access to my Medium account</p>
+
+<a href="https://octopie23.medium.com/"><img src="https://img.shields.io/badge/medium.com-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+
 <!--these are the manually added blog posts -->
-- [Low-Code Development: The Rise of a New Approach to Software Engineering](https://shricodev.hashnode.dev/low-code-development-the-rise-of-a-new-approach-to-software-engineering)
-- [The Benefits of Open Source: Why Sharing is the Future of Technology](https://shricodev.hashnode.dev/the-benefits-of-open-source-why-sharing-is-the-future-of-technology)
 - [TryHackMe — Jeff](https://infosecwriteups.com/tryhackme-jeff-fc2fe2a3161a?source=rss-5b49d6184d5------2)
 
-<h2> My Github Stats.🏆 </h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" /> Github Stats
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=shricodev&theme=tokyonight" alt="Shrijal Acharya" />&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shricodev&exclude_repo=shricodev.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=tokyonight)
-</div>
+| ![Shrijal Acharya github stats](https://github-readme-stats.vercel.app/api?username=shricodev\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Shrijal Acharya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shricodev&theme=tokyonight&hide_border=true&border_radius=8) |
+| -- | -- |

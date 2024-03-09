@@ -36,13 +36,13 @@
 
 <p align="center">
   <a href="https://shricodev.tech">
-    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,linux,gcp" />
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,linux,gcp,postgres,mongo" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://shricodev.tech">
-    <img src="https://skillicons.dev/icons?i=python,js,typescript,react,next,bash,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,django,express,js,typescript,react,next,bash,git,html,css" />
   </a>
 </p>
 

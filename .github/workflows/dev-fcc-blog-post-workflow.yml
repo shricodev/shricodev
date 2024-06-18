@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post workflow from Dev.to and freeCodeCamp
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -7,16 +7,16 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-dev-blog:
+    name: Update this repo's README with latest blog posts (Dev.to or freeCodeCamp)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in dev.to and freeCodeCamp posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "15"
-          feed_list: "https://dev.to/feed/shricodev"
-          commit_message: "docs: update with the latest blog posts"
+          max_post_count: "60"
+          feed_list: "https://dev.to/feed/shricodev,https://www.freecodecamp.org/news/author/shricodev/rss"
+          commit_message: "docs: update with the latest blog posts (Dev.to or freeCodeCamp)"
           committer_username: "blog-actions-workflow"

@@ -66,6 +66,7 @@
 </div>
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Coding Profiles
+
 <br/>
 <p align="center">
   <a href="https://leetcode.com/shricodev"><img src="https://img.shields.io/badge/leetcode-ebedf0?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="shricodev leetcode profile" /></a>
@@ -75,7 +76,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> Recent Blog Posts
 
-<a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> <a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
+<a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
 - [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)

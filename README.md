@@ -79,6 +79,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 - [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
 - [Hey Chads, share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
 - [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)

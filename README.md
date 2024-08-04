@@ -80,7 +80,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵](https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo)
-- [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 - [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
 - [Hey Chads, share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
 - [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)

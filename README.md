@@ -79,6 +79,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate your Instagram Posts like a PRO with Cron jobs! 🚀](https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb)
 - [✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵](https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 - [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
@@ -91,7 +92,6 @@
 - [✨Be a 10X Linux User with these tools 😎💫](https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f)
 - [Drizzle: ORM with SQL Superpowers🚀](https://dev.to/shricodev/using-orm-try-drizzle-3ca0)
 - [Dev&#39;s, share something you know that most don&#39;t](https://dev.to/shricodev/devs-share-something-that-you-know-that-most-dont-17e9)
-- [Git Bisect - The Underdog Git Command🔥](https://dev.to/shricodev/git-bisect-the-underdog-git-command-3h2p)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="20" height="20" /> My Old Blogging Platform - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" alt="Crying Cat" width="20" height="20" /> Sadly I lost access to my Medium account</p>

@@ -79,7 +79,6 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Learn to monitor your Python Application Like a PRO! 🧙‍♂️🪄](https://dev.to/shricodev/learn-to-monitor-your-python-application-like-a-pro-15pg)
 - [Automate your Instagram Posts like a PRO with Cron jobs! 🚀](https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb)
 - [✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵](https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo)
@@ -109,14 +108,69 @@
 
 > A few of my favorites that I would love to share with you 🤍
 
-|                                                                                              Cover                                                                                              | Details                                                                                                                                                                                                                                          |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="https://github.com/shricodev/shricodev/blob/main/images/automate-insta-posts-like-a-pro.png" alt="Learn to automate your Instagram posts like a Pro with Cron jobs" width="700" />   |  How I automate posting on Instagram<br><br>  Featured Post of the Week<br><br> [Automate your Instagram Posts like a PRO with Cron jobs! 🚀](https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb)           |
-| <img src="https://github.com/shricodev/shricodev/blob/main/images/best-practices-when-deploying-a-docker-container.png" alt="5 Best practices when deploying a Docker container" width="700" /> |  Learn the best Docker practices<br><br> [5 Best Practices when deploying a Docker Container🚀](https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp)                                                               |
-|             <img src="https://github.com/shricodev/shricodev/blob/main/images/4-core-developer-tools-i-use.gif" alt="4 core developer tools I use in my daily life" width="700" />              |  Core tools I use in my daily Linux workflow<br><br>  Featured Post of the Week <br><br> [4 core developer tools I use in my daily life 🚀](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)                       |
-|         <img src="https://github.com/shricodev/shricodev/blob/main/images/build-your-own-cli-version-of-monkeytype.gif" alt="Build your own CLI version of MonkeyType " width="700" />          |  Learn to build CLI version of MonkeyType<br><br> [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)                                                                        |
-|  <img src="https://github.com/shricodev/shricodev/blob/main/images/do-this-first-if-using-an-auth-provider.gif" alt="Must do step if you are using an authentication provider" width="700" />   |  Learn to backup user details when using an Auth Provider<br><br> [✨ Do this first if you are using an Auth Provider 🫵](https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo)                                        |
-|               <img src="https://github.com/shricodev/shricodev/blob/main/images/monitor-py-like-a-pro.png" alt="Learn to monitor a Python application like a pro!" width="700" />               |  Learn to Monitor Python Application Like a Pro<br><br>  One of the Top Post of the Month<br><br> [Learn to monitor your Python Application Like a PRO! 🪄](https://dev.to/shricodev/learn-to-monitor-your-python-application-like-a-pro-15pg) |
+<table>
+  <tr>
+    <th style="width: 40%;">Cover</th>
+    <th style="width: 60%;">Details</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/automate-insta-posts-like-a-pro.png" alt="Learn to automate your Instagram posts like a Pro with Cron jobs" width="300" />
+    </td>
+    <td>
+      • How I automate posting on Instagram<br><br> 
+      • Featured Post of the Week<br><br> 
+      <a href="https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb">Automate your Instagram Posts like a PRO with Cron jobs! 🚀</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/best-practices-when-deploying-a-docker-container.png" alt="5 Best practices when deploying a Docker container" width="300" />
+    </td>
+    <td>
+      • Learn the best Docker practices<br><br> 
+      <a href="https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp">5 Best Practices when deploying a Docker Container 🚀</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/4-core-developer-tools-i-use.gif" alt="4 core developer tools I use in my daily life" width="300" />
+    </td>
+    <td>
+      • Core tools I use in my daily Linux workflow<br><br> 
+      • Featured Post of the Week <br><br> 
+      <a href="https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524">4 core developer tools I use in my daily life 🚀</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/build-your-own-cli-version-of-monkeytype.gif" alt="Build your own CLI version of MonkeyType" width="300" />
+    </td>
+    <td>
+      • Learn to build the CLI version of MonkeyType<br><br> 
+      <a href="https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7">😻Build your own CLI version of MonkeyType 🙈</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/do-this-first-if-using-an-auth-provider.gif" alt="Must do step if you are using an authentication provider" width="300" />
+    </td>
+    <td>
+      • Learn to backup user details when using an Auth Provider<br><br> 
+      <a href="https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo">✨ Do this first if you are using an Auth Provider 🫵</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/monitor-py-like-a-pro.png" alt="Learn to monitor a Python application like a pro!" width="300" />
+    </td>
+    <td>
+      • Learn to Monitor Python Application Like a Pro<br><br> 
+      • One of the Top Post of the Month<br><br> 
+      <a href="https://dev.to/shricodev/learn-to-monitor-your-python-application-like-a-pro-15pg">Learn to monitor your Python Application Like a PRO! 🪄</a>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Github Stats
 

@@ -1,6 +1,4 @@
-[![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
-
-#### My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30">
+<img alt="banner image" src="https://github.com/shricodev/shricodev/blob/main/images/banner.png">
 
 <div align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshricodev"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshricodev&labelColor=%23ebedf0&countColor=%23ebedf0&labelStyle=upper" /></a>
@@ -176,3 +174,7 @@
 
 | ![Shrijal Acharya github stats](https://github-readme-stats.vercel.app/api?username=shricodev&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Shrijal Acharya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shricodev&theme=tokyonight&hide_border=true&border_radius=8) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
+
+#### My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30">

@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
 - [Learn to monitor your Python Application Like a PRO! 🧙‍♂️🪄](https://dev.to/shricodev/learn-to-monitor-your-python-application-like-a-pro-15pg)
 - [Automate your Instagram Posts like a PRO with Cron jobs! 🚀](https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb)
 - [✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵](https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo)
@@ -89,7 +90,6 @@
 - [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
 - [🎉One must-have tool for anyone in Data field 🤯✨](https://dev.to/shricodev/one-must-have-tool-for-anyone-in-data-field-2jek)
 - [✨Be a 10X Linux User with these tools 😎💫](https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f)
-- [Drizzle: ORM with SQL Superpowers🚀](https://dev.to/shricodev/using-orm-try-drizzle-3ca0)
 <!-- BLOG-POST-LIST:END -->
 
 > 👀 I cross-post on **DEV.to** and **Hashnode**. Interested to join my newsletter?

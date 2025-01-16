@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to sync your portfolio site&#39;s project list with your GitHub repositories. Check this out! 👇](https://dev.to/shricodev/learn-how-to-sync-your-portfolio-sites-project-list-with-your-github-repositories-check-this-out-3d97)
 - [How to Sync Your Portfolio with GitHub Repositories 😻👌](https://dev.to/shricodev/how-to-sync-your-portfolio-with-github-repositories-2obi)
 - [Give your feedback on my updated Portfolio 👋](https://dev.to/shricodev/give-your-feedback-on-my-updated-portfolio-2nkb)
 - [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
@@ -89,7 +90,6 @@
 - [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
 - [✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki)
 - [🤯 How easy is it to integrate an AI chatbot into your app in 2024? 🏆🥳](https://dev.to/shricodev/integrate-ai-chatbot-into-your-app-in-2024-1i3p)
-- [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
 <!-- BLOG-POST-LIST:END -->
 
 > 👀 I cross-post on **DEV.to** and **Hashnode**. Interested to join my newsletter?

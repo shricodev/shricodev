@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)
 - [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
 - [Learn how to sync your portfolio site&#39;s project list with your GitHub repositories. Check this out! 👇](https://dev.to/shricodev/learn-how-to-sync-your-portfolio-sites-project-list-with-your-github-repositories-check-this-out-3d97)
 - [How to Sync Your Portfolio with GitHub Repositories 😻👌](https://dev.to/shricodev/how-to-sync-your-portfolio-with-github-repositories-2obi)
@@ -89,7 +90,6 @@
 - [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
 - [Hey Chads, share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
 - [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
-- [✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki)
 <!-- BLOG-POST-LIST:END -->
 
 > 👀 I cross-post on **DEV.to** and **Hashnode**. Interested to join my newsletter?

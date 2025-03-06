@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Comparing OpenAI GPT 4.5 and Claude 3.7 Sonnet on Coding 🚀](https://dev.to/shricodev/comparing-openai-gpt-45-and-claude-37-sonnet-on-coding-dj5)
 - [Claude 3.7 Sonnet vs. Grok 3 vs. o3-mini-high: Coding comparison](https://dev.to/composiodev/claude-37-sonnet-vs-grok-3-vs-o3-mini-high-coding-comparison-23oe)
 - [Grok 3 vs. Deepseek r1: A deep analysis](https://dev.to/composiodev/grok-3-vs-deepseek-r1-a-deep-analysis-2kcl)
 - [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)
@@ -89,7 +90,6 @@
 - [✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵](https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 - [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
-- [Hey Chads, share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
 <!-- BLOG-POST-LIST:END -->
 
 > 👀 I cross-post on **DEV.to** and **Hashnode**. Interested to join my newsletter?

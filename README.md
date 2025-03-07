@@ -77,7 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Comparing OpenAI GPT 4.5 and Claude 3.7 Sonnet on Coding 🚀](https://dev.to/shricodev/comparing-openai-gpt-45-and-claude-37-sonnet-on-coding-dj5)
+- [🤖 Comparing OpenAI GPT 4.5 and Claude 3.7 Sonnet on Coding 🚀](https://dev.to/composiodev/comparing-openai-gpt-45-and-claude-37-sonnet-on-coding-dj5)
 - [Claude 3.7 Sonnet vs. Grok 3 vs. o3-mini-high: Coding comparison](https://dev.to/composiodev/claude-37-sonnet-vs-grok-3-vs-o3-mini-high-coding-comparison-23oe)
 - [Grok 3 vs. Deepseek r1: A deep analysis](https://dev.to/composiodev/grok-3-vs-deepseek-r1-a-deep-analysis-2kcl)
 - [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)

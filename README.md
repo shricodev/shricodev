@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [💥 Meta&#39;s Llama 4 Maverick vs. DeepSeek v3 0324 ✅](https://dev.to/composiodev/metas-llama-4-maverick-vs-deepseek-v3-0324-1fgn)
 - [✨ Gemini 2.5 Pro vs. Claude 3.7 Sonnet Coding Comparison 🔥](https://dev.to/composiodev/gemini-25-pro-vs-claude-37-sonnet-coding-comparison-37cp)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅](https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90)
@@ -89,7 +90,6 @@
 - [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
 - [How to Sync Your Portfolio with GitHub Repositories 😻👌](https://dev.to/shricodev/how-to-sync-your-portfolio-with-github-repositories-2obi)
 - [Give your feedback on my updated Portfolio 👋](https://dev.to/shricodev/give-your-feedback-on-my-updated-portfolio-2nkb)
-- [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 

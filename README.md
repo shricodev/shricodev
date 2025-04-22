@@ -77,7 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 OpenAI o3 vs. Gemini 2.5 vs. OpenAI o4-Mini 🤔](https://dev.to/composiodev/openai-o3-vs-gemini-25-vs-openai-o4-mini-5ej4)
+- [🤖 OpenAI o3 vs. Gemini 2.5 vs. OpenAI o4-Mini on Coding 🤔](https://dev.to/composiodev/openai-o3-vs-gemini-25-vs-openai-o4-mini-5ej4)
 - [💥 Meta&#39;s Llama 4 Maverick vs. DeepSeek v3 0324 ✅](https://dev.to/composiodev/metas-llama-4-maverick-vs-deepseek-v3-0324-1fgn)
 - [✨ Gemini 2.5 Pro vs. Claude 3.7 Sonnet Coding Comparison 🔥](https://dev.to/composiodev/gemini-25-pro-vs-claude-37-sonnet-coding-comparison-37cp)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)

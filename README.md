@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀OpenAI o3 Pro vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🧙🪄](https://dev.to/composiodev/openai-o3-pro-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-3pam)
 - [🔥Claude Sonnet 4 vs. Gemini 2.5 Pro Coding Comparison ✅](https://dev.to/composiodev/claude-sonnet-4-vs-gemini-25-pro-coding-comparison-5787)
 - [🔥Claude Opus 4 vs. Gemini 2.5 Pro vs. OpenAI o3 Coding Comparison 🚀](https://dev.to/composiodev/claude-opus-4-vs-gemini-25-pro-vs-openai-o3-coding-comparison-3jnp)
 - [🎉 Build Your Own Chat MCP Client with Next.js⚡](https://dev.to/composiodev/build-your-own-chat-mcp-client-with-nextjs-4a0k)
@@ -89,7 +90,6 @@
 - [🤖 Cursor MCP vs. Windsurf MCP using Composio MCP Server 🚀](https://dev.to/composiodev/cursor-mcp-vs-windsurf-mcp-using-composio-mcp-server-1748)
 - [🎉 I just hit 100 WPM 🎊](https://dev.to/shricodev/i-just-hit-100-wpm-3ppo)
 - [🤖 Comparing OpenAI GPT 4.5 and Claude 3.7 Sonnet on Coding 🚀](https://dev.to/composiodev/comparing-openai-gpt-45-and-claude-37-sonnet-on-coding-dj5)
-- [Claude 3.7 Sonnet vs. Grok 3 vs. o3-mini-high: Coding comparison](https://dev.to/composiodev/claude-37-sonnet-vs-grok-3-vs-o3-mini-high-coding-comparison-23oe)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 

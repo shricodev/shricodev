@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 - [🚀OpenAI o3 Pro vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🧙🪄](https://dev.to/composiodev/openai-o3-pro-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-3pam)
 - [🔥Claude Sonnet 4 vs. Gemini 2.5 Pro Coding Comparison ✅](https://dev.to/composiodev/claude-sonnet-4-vs-gemini-25-pro-coding-comparison-5787)
 - [🔥Claude Opus 4 vs. Gemini 2.5 Pro vs. OpenAI o3 Coding Comparison 🚀](https://dev.to/composiodev/claude-opus-4-vs-gemini-25-pro-vs-openai-o3-coding-comparison-3jnp)

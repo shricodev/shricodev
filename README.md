@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
 - [Turn Neovim into Cursor in Minutes 🚀](https://dev.to/composiodev/turn-neovim-into-cursor-in-minutes-2hoe)
 - [🎉 Build Your Own Personal Voice AI Agent to Control All Your Apps⚡](https://dev.to/composiodev/build-your-own-personal-voice-ai-agent-to-control-all-your-apps-2dfa)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
@@ -90,7 +91,6 @@
 - [✨ Gemini 2.5 Pro vs. Claude 3.7 Sonnet Coding Comparison 🔥](https://dev.to/composiodev/gemini-25-pro-vs-claude-37-sonnet-coding-comparison-37cp)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅](https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90)
-- [🤖 Cursor MCP vs. Windsurf MCP using Composio MCP Server 🚀](https://dev.to/composiodev/cursor-mcp-vs-windsurf-mcp-using-composio-mcp-server-1748)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 

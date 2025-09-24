@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878)
 - [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
 - [🔥Qwen3 Coder vs. Kimi K2 vs. Claude Sonnet 4 Coding Comparison 🚀](https://dev.to/composiodev/qwen3-coder-vs-kimi-k2-vs-claude-sonnet-4-coding-comparison-20np)
 - [🍕 Is Kimi K2 Actually Better Than Claude Sonnet 4 for Coding? ✨🤔](https://dev.to/composiodev/is-kimi-k2-actually-better-than-claude-sonnet-4-for-coding-i7a)
@@ -89,7 +90,6 @@
 - [🔥Claude Opus 4 vs. Gemini 2.5 Pro vs. OpenAI o3 Coding Comparison 🚀](https://dev.to/composiodev/claude-opus-4-vs-gemini-25-pro-vs-openai-o3-coding-comparison-3jnp)
 - [🎉 Build Your Own Chat MCP Client with Next.js⚡](https://dev.to/composiodev/build-your-own-chat-mcp-client-with-nextjs-4a0k)
 - [How I Manage my System and Dotfiles &lpar;with Ansible&rpar; 🔥](https://dev.to/shricodev/how-i-manage-my-system-and-dotfiles-with-ansible-8m1)
-- [🤖 OpenAI o3 vs. Gemini 2.5 vs. OpenAI o4-Mini on Coding 🤔](https://dev.to/composiodev/openai-o3-vs-gemini-25-vs-openai-o4-mini-5ej4)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 <!-- BLOG-POST-LIST:END -->

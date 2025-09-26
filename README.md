@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
 - [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878)
 - [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
 - [🔥Qwen3 Coder vs. Kimi K2 vs. Claude Sonnet 4 Coding Comparison 🚀](https://dev.to/composiodev/qwen3-coder-vs-kimi-k2-vs-claude-sonnet-4-coding-comparison-20np)

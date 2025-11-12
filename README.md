@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Cursor Composer 1 vs Claude 4.5 Agent Build Comparison ⚡](https://dev.to/composiodev/cursor-composer-1-vs-claude-45-agent-build-comparison-2big)
 - [💡How to Build ChatGPT Apps with Widgets using the ChatGPT Apps SDK and Next.js 🥶⚡](https://dev.to/composiodev/how-to-build-chatgpt-apps-with-widgets-using-the-chatgpt-apps-sdk-and-nextjs-104i)
 - [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
@@ -90,7 +91,6 @@
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 - [🚀OpenAI o3 Pro vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🧙🪄](https://dev.to/composiodev/openai-o3-pro-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-3pam)
 - [🔥Claude Sonnet 4 vs. Gemini 2.5 Pro Coding Comparison ✅](https://dev.to/composiodev/claude-sonnet-4-vs-gemini-25-pro-coding-comparison-5787)
-- [🔥Claude Opus 4 vs. Gemini 2.5 Pro vs. OpenAI o3 Coding Comparison 🚀](https://dev.to/composiodev/claude-opus-4-vs-gemini-25-pro-vs-openai-o3-coding-comparison-3jnp)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 <!-- BLOG-POST-LIST:END -->

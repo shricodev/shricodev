@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools](https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/)
 - [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
 - [🧠 Cursor Composer 1 vs Claude 4.5 Agent Build Comparison ⚡](https://dev.to/composiodev/cursor-composer-1-vs-claude-45-agent-build-comparison-2big)
 - [💡How to Build ChatGPT Apps with Widgets using the ChatGPT Apps SDK and Next.js 🥶⚡](https://dev.to/composiodev/how-to-build-chatgpt-apps-with-widgets-using-the-chatgpt-apps-sdk-and-nextjs-104i)

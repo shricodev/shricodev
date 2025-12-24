@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ministral 3 3B Local Setup Guide with MCP Tool Calling 🔥](https://dev.to/composiodev/ministral-3-3b-local-setup-guide-with-mcp-tool-calling-icm)
 - [✌️5 AI Document Parsing Tools That Actually Work 🚀🔥](https://dev.to/shricodev/5-ai-document-parsing-tools-that-actually-work-db6)
 - [Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools](https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/)
 - [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
@@ -90,7 +91,6 @@
 - [🍕 Is Kimi K2 Actually Better Than Claude Sonnet 4 for Coding? ✨🤔](https://dev.to/composiodev/is-kimi-k2-actually-better-than-claude-sonnet-4-for-coding-i7a)
 - [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
 - [Turn Neovim into Cursor in Minutes 🚀](https://dev.to/composiodev/turn-neovim-into-cursor-in-minutes-2hoe)
-- [🎉 Build Your Own Personal Voice AI Agent to Control All Your Apps⚡](https://dev.to/composiodev/build-your-own-personal-voice-ai-agent-to-control-all-your-apps-2dfa)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)

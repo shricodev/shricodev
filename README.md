@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥Claude Opus 4.6 vs. Sonnet 4.6 Coding Comparison ✅](https://dev.to/tensorlake/claude-opus-46-vs-sonnet-46-coding-comparison-55jn)
 - [How to set up Secure OpenClaw and power it with 850+ SaaS Apps 🦞🔒](https://dev.to/composiodev/how-to-set-up-secure-openclaw-and-power-it-with-850-saas-apps-5d5j)
 - [🖐️Top 5 secure OpenClaw Alternatives you should consider 👀](https://dev.to/composiodev/top-5-secure-openclaw-alternatives-you-should-consider-172p)
 - [🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅](https://dev.to/tensorlake/claude-opus-45-vs-gpt-52-high-vs-gemini-3-pro-production-coding-test-25of)
@@ -90,7 +91,6 @@
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
 - [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878)
 - [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
-- [🔥Qwen3 Coder vs. Kimi K2 vs. Claude Sonnet 4 Coding Comparison 🚀](https://dev.to/composiodev/qwen3-coder-vs-kimi-k2-vs-claude-sonnet-4-coding-comparison-20np)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)

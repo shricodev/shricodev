@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How to run a fully-autonomous company with OpenClaw 🦞](https://dev.to/composiodev/how-to-run-a-fully-autonomous-company-with-openclaw-ma5)
 - [Everything you need to know about OpenAI GPT-5.4 ✌️](https://dev.to/tensorlake/everything-you-need-to-know-about-openai-gpt-54-3lgm)
 - [🔥Claude Opus 4.6 vs. Sonnet 4.6 Coding Comparison ✅](https://dev.to/tensorlake/claude-opus-46-vs-sonnet-46-coding-comparison-55jn)
 - [How to set up Secure OpenClaw and power it with 850+ SaaS Apps 🦞🔒](https://dev.to/composiodev/how-to-set-up-secure-openclaw-and-power-it-with-850-saas-apps-5d5j)
@@ -90,7 +91,6 @@
 - [💡How to Build ChatGPT Apps with Widgets using the ChatGPT Apps SDK and Next.js 🥶⚡](https://dev.to/composiodev/how-to-build-chatgpt-apps-with-widgets-using-the-chatgpt-apps-sdk-and-nextjs-104i)
 - [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
-- [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)

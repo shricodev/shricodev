@@ -77,6 +77,7 @@
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [My speaker broke, so I built a LAN speaker](https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc)
 - [How to Automate Your Slack Workspace with OpenClaw and Composio 🚀](https://dev.to/composiodev/how-to-automate-your-slack-workspace-with-openclaw-and-composio-3lhc)
 - [Top 10 CLI Tools to Level-Up Claude Code](https://dev.to/composiodev/top-10-cli-tools-to-level-up-claude-code-1kf9)
 - [🚀 How to run a fully-autonomous company with OpenClaw 🦞](https://dev.to/composiodev/how-to-run-a-fully-autonomous-company-with-openclaw-ma5)
@@ -89,7 +90,6 @@
 - [✌️5 AI Document Parsing Tools That Actually Work 🚀🔥](https://dev.to/shricodev/5-ai-document-parsing-tools-that-actually-work-db6)
 - [Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools](https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/)
 - [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
-- [🧠 Cursor Composer 1 vs Claude 4.5 Agent Build Comparison ⚡](https://dev.to/composiodev/cursor-composer-1-vs-claude-45-agent-build-comparison-2big)
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 - [How to Host Local LLMs in a Docker Container on Azure](https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/)

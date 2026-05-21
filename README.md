@@ -18,19 +18,20 @@
 
 <br/>
 
-- Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> I am Shrijal, A passionate Software and Security enthusiast
+# Hi, I’m Shrijal 👋
 
-- 🔭 I’m currently working on Python, Java, JS, TS Projects
+Nepal 🇳🇵 &nbsp;|&nbsp; Building AI agents, writing for developers, and contributing to open source.
 
-- 🌱 I’m currently learning Cloud Computing with Google Cloud Platform
+<i>mostly shipping, always sharing · <a href="https://www.techwithshrijal.com">techwithshrijal.com</a></i>
 
-- 🔭 I’m currently contributing to [Oppia](https://github.com/oppia/oppia) opensource project
+Currently working at [Composio](https://composio.dev), SDE, Gold Microsoft Student Ambassador, and moderator at Forem/freeCodeCamp.
+Previously led collaboration and dev-team efforts at [Oppia](https://github.com/oppia/oppia).
+Part of GSSoC’24 and author of technical blogs read by **1.1M+ people**.
 
-- 👯 I’m looking to collaborate on Open Source Projects and Tech Articles
+I love to write and share my work with the developer community.
+I like working on projects that are useful, a little unusual, and beyond the obvious.
 
-- 💬 Talk to me about Coding, Projects, and Open Source
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technical Skills
+## Technical Skills
 
 <p align="center">
   <a href="https://shricodev.vercel.app">
@@ -44,7 +45,7 @@
   </a>
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with me
+## Connect with me
 
 <div align="center" >
   <a href="https://www.coursera.org/user/6f7698d69fb4ee325093383f88d8d2ff"><img src="https://img.shields.io/badge/coursera-ebedf0?style=for-the-badge&logo=coursera&logoColor=0A0209" alt="Shrijal Acharya coursera account" /></a>
@@ -63,7 +64,7 @@
   <a href="https://peerlist.io/shricodev"><img src="https://img.shields.io/badge/peerlist-ebedf0?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username shricodev" ></a>
 </div>
 
-## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Coding Profiles
+## Coding Profiles
 
 <br/>
 <p align="center">
@@ -72,11 +73,12 @@
   <a href="https://www.codingninjas.com/codestudio/profile/6d2f4a1b-5461-4e51-92fa-90f00f70f309"><img src="https://img.shields.io/badge/codingninjas-ebedf0?style=for-the-badge&logo=codingninjas&logoColor=0A0209" alt="profile of CodingNinjas with old username" ></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> Recent Blog Posts
+## Recent Blog Posts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" />
 
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Kimi K2.6 vs. Claude Opus 4.7 in a Weird Game Coding Test ✅](https://dev.to/composiodev/kimi-k26-vs-claude-opus-47-in-a-weird-game-coding-test-2ck3)
 - [My speaker broke, so I built a LAN speaker](https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc)
 - [How to Automate Your Slack Workspace with OpenClaw and Composio 🚀](https://dev.to/composiodev/how-to-automate-your-slack-workspace-with-openclaw-and-composio-3lhc)
@@ -96,11 +98,13 @@
 - [How to Host Static Sites on Azure Static Web Apps for Free](https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
-> 👀 I cross-post on **DEV.to** and **Hashnode**. Interested to join my newsletter?
+<a href="https://dev.to/shricodev">View more posts on DEV.to →</a>
+
+> I cross-post on **DEV.to** and **Hashnode**. Interested to join my newsletter?
 
 <a href="https://shricodev.hashnode.dev/newsletter"><img src="https://img.shields.io/badge/join%20my%20newsletter-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white" alt="link to my hashnode newsletter"/></a>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="20" height="20" /> My Old Blogging Platform - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" alt="Crying Cat" width="20" height="20" /> Sadly I lost access to my Medium account</p>
+<p>My Old Blogging Platform · Sadly I lost access to my Medium account</p>
 
 <a href="https://octopie23.medium.com/"><img src="https://img.shields.io/badge/medium.com-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
@@ -117,21 +121,66 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/shricodev/shricodev/blob/main/images/automate-insta-posts-like-a-pro.png" alt="Learn to automate your Instagram posts like a Pro with Cron jobs" width="300" />
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/my-speaker-broke-lan-speaker.png" alt="My speaker broke, so I built a LAN speaker" width="300" />
     </td>
     <td>
-      • How I automate posting on Instagram<br><br> 
-      • Featured Post of the Week<br><br> 
-      <a href="https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb">Automate your Instagram Posts like a PRO with Cron jobs! 🚀</a>
+      • A DIY LAN speaker built from scratch after a physical speaker broke<br><br>
+      <a href="https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc">My speaker broke, so I built a LAN speaker</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/shricodev/shricodev/blob/main/images/best-practices-when-deploying-a-docker-container.png" alt="5 Best practices when deploying a Docker container" width="300" />
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/automate-slack-openclaw-composio.png" alt="How to Automate Your Slack Workspace with OpenClaw and Composio" width="300" />
     </td>
     <td>
-      • Learn the best Docker practices<br><br> 
-      <a href="https://dev.to/shricodev/5-best-practices-when-deploying-a-docker-container-1lhp">5 Best Practices when deploying a Docker Container 🚀</a>
+      • Step-by-step guide to automating Slack with OpenClaw and Composio<br><br>
+      <a href="https://dev.to/composiodev/how-to-automate-your-slack-workspace-with-openclaw-and-composio-3lhc">How to Automate Your Slack Workspace with OpenClaw and Composio</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/manage-system-dotfiles-ansible.png" alt="How I Manage my System and Dotfiles with Ansible" width="300" />
+    </td>
+    <td>
+      • Managing system configuration and dotfiles reproducibly with Ansible<br><br>
+      <a href="https://dev.to/shricodev/how-i-manage-my-system-and-dotfiles-with-ansible-8m1">How I Manage my System and Dotfiles with Ansible</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/host-llms-docker-azure.png" alt="How to Host Local LLMs in a Docker Container on Azure" width="300" />
+    </td>
+    <td>
+      • Running local LLMs inside Docker containers deployed on Azure<br><br>
+      <a href="https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/">How to Host Local LLMs in a Docker Container on Azure</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/langgraph-composio-discord-bot.png" alt="How to Build a LangGraph and Composio-Powered Discord Bot" width="300" />
+    </td>
+    <td>
+      • Building a production Discord bot powered by LangGraph and Composio<br><br>
+      <a href="https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/">How to Build a LangGraph and Composio-Powered Discord Bot</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/google-sheet-ai-agent.png" alt="How to Build a Google Sheet AI Agent" width="300" />
+    </td>
+    <td>
+      • Building a Google Sheet AI agent with Composio and Gemini TTS support<br><br>
+      <a href="https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/">How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shricodev/shricodev/blob/main/images/automate-insta-posts-like-a-pro.png" alt="Learn to automate your Instagram posts like a Pro with Cron jobs" width="300" />
+    </td>
+    <td>
+      • How I automate posting on Instagram<br><br>
+      • Featured Post of the Week<br><br>
+      <a href="https://dev.to/shricodev/automate-your-instagram-posts-like-a-pro-with-cron-jobs-3idb">Automate your Instagram Posts like a PRO with Cron jobs</a>
     </td>
   </tr>
   <tr>
@@ -139,9 +188,9 @@
       <img src="https://github.com/shricodev/shricodev/blob/main/images/4-core-developer-tools-i-use.gif" alt="4 core developer tools I use in my daily life" width="300" />
     </td>
     <td>
-      • Core tools I use in my daily Linux workflow<br><br> 
-      • Featured Post of the Week <br><br> 
-      <a href="https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524">4 core developer tools I use in my daily life 🚀</a>
+      • Core tools I use in my daily Linux workflow<br><br>
+      • Featured Post of the Week<br><br>
+      <a href="https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524">4 core developer tools I use in my daily life</a>
     </td>
   </tr>
   <tr>
@@ -149,8 +198,8 @@
       <img src="https://github.com/shricodev/shricodev/blob/main/images/build-your-own-cli-version-of-monkeytype.gif" alt="Build your own CLI version of MonkeyType" width="300" />
     </td>
     <td>
-      • Learn to build the CLI version of MonkeyType<br><br> 
-      <a href="https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7">😻Build your own CLI version of MonkeyType 🙈</a>
+      • Learn to build the CLI version of MonkeyType<br><br>
+      <a href="https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7">Build your own CLI version of MonkeyType</a>
     </td>
   </tr>
   <tr>
@@ -158,8 +207,8 @@
       <img src="https://github.com/shricodev/shricodev/blob/main/images/do-this-first-if-using-an-auth-provider.gif" alt="Must do step if you are using an authentication provider" width="300" />
     </td>
     <td>
-      • Learn to backup user details when using an Auth Provider<br><br> 
-      <a href="https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo">✨ Do this first if you are using an Auth Provider 🫵</a>
+      • Learn to backup user details when using an Auth Provider<br><br>
+      <a href="https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo">Do this first if you are using an Auth Provider</a>
     </td>
   </tr>
   <tr>
@@ -167,18 +216,9 @@
       <img src="https://github.com/shricodev/shricodev/blob/main/images/monitor-py-like-a-pro.png" alt="Learn to monitor a Python application like a pro!" width="300" />
     </td>
     <td>
-      • Learn to Monitor Python Application Like a Pro<br><br> 
-      • One of the Top Post of the Month<br><br> 
-      <a href="https://dev.to/shricodev/learn-to-monitor-your-python-application-like-a-pro-15pg">Learn to monitor your Python Application Like a PRO! 🪄</a>
+      • Learn to Monitor Python Application Like a Pro<br><br>
+      • One of the Top Post of the Month<br><br>
+      <a href="https://dev.to/shricodev/learn-to-monitor-your-python-application-like-a-pro-15pg">Learn to monitor your Python Application Like a PRO</a>
     </td>
   </tr>
 </table>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Github Stats
-
-| ![Shrijal Acharya github stats](https://github-readme-stats.vercel.app/api?username=shricodev&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Shrijal Acharya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shricodev&theme=tokyonight&hide_border=true&border_radius=8) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-[![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
-
-#### My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30">

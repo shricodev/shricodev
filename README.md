@@ -222,3 +222,7 @@ I like working on projects that are useful, a little unusual, and beyond the obv
     </td>
   </tr>
 </table>
+
+[![An image of @shricodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shricodev)](https://holopin.io/@shricodev)
+
+#### My Holopin Badges <img alt="up arrow" src="https://github.com/shricodev/shricodev/blob/main/images/iconizer-up-arrow_2926153.svg" width="30">

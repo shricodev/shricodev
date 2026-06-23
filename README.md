@@ -78,6 +78,7 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Durable, Autoscaling AI Agent with Temporal, Composio, KEDA, and Kubernetes](https://www.freecodecamp.org/news/how-to-build-a-durable-autoscaling-ai-agent-with-temporal-composio-keda-and-kubernetes/)
 - [Claude Opus vs Kombai in 3 Real-World Frontend AI Tests 🚀](https://dev.to/shricodev/claude-opus-vs-kombai-in-3-real-world-frontend-ai-tests-13a2)
 - [Claude Code vs. OpenCode without the hype](https://dev.to/composiodev/claude-code-vs-opencode-without-the-hype-j1f)
 - [Kimi K2.6 vs. Claude Opus 4.7 in a Weird Game Coding Test ✅](https://dev.to/composiodev/kimi-k26-vs-claude-opus-47-in-a-weird-game-coding-test-2ck3)

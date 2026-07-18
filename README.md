@@ -78,6 +78,7 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to connect MCP servers to Slackbot](https://dev.to/composiodev/how-to-connect-mcp-servers-to-slackbot-1al4)
 - [How to Build a Durable, Autoscaling AI Agent with Temporal, Composio, KEDA, and Kubernetes](https://www.freecodecamp.org/news/how-to-build-a-durable-autoscaling-ai-agent-with-temporal-composio-keda-and-kubernetes/)
 - [Claude Opus vs Kombai in 3 Real-World Frontend AI Tests 🚀](https://dev.to/shricodev/claude-opus-vs-kombai-in-3-real-world-frontend-ai-tests-13a2)
 - [Claude Code vs. OpenCode without the hype](https://dev.to/composiodev/claude-code-vs-opencode-without-the-hype-j1f)
@@ -90,7 +91,6 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 - [🔥Claude Opus 4.6 vs. Sonnet 4.6 Coding Comparison ✅](https://dev.to/tensorlake/claude-opus-46-vs-sonnet-46-coding-comparison-55jn)
 - [How to set up Secure OpenClaw and power it with 850+ SaaS Apps 🦞🔒](https://dev.to/composiodev/how-to-set-up-secure-openclaw-and-power-it-with-850-saas-apps-5d5j)
 - [🖐️Top 5 secure OpenClaw Alternatives you should consider 👀](https://dev.to/composiodev/top-5-secure-openclaw-alternatives-you-should-consider-172p)
-- [🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅](https://dev.to/tensorlake/claude-opus-45-vs-gpt-52-high-vs-gemini-3-pro-production-coding-test-25of)
 - [Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools](https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/)
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)

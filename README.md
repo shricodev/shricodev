@@ -78,6 +78,7 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pi Agent vs OpenCode after 100+ Hours of Real Use ✌️](https://dev.to/composiodev/pi-agent-vs-opencode-after-100-hours-of-real-use-1mh7)
 - [Pi Agent vs Claude Code After 100 Hours of Real Use 🔥](https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp)
 - [How to build and deploy an MCP server to production &lpar;2026-07-28 spec&rpar;](https://dev.to/composiodev/how-to-build-and-deploy-an-mcp-server-to-production-2026-07-28-spec-50p3)
 - [How to connect MCP servers to Slackbot](https://dev.to/composiodev/how-to-connect-mcp-servers-to-slackbot-1al4)
@@ -90,7 +91,6 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 - [Top 10 CLI Tools to Level-Up Claude Code](https://dev.to/composiodev/top-10-cli-tools-to-level-up-claude-code-1kf9)
 - [🚀 How to run a fully-autonomous company with OpenClaw 🦞](https://dev.to/composiodev/how-to-run-a-fully-autonomous-company-with-openclaw-ma5)
 - [Everything you need to know about OpenAI GPT-5.4 ✌️](https://dev.to/tensorlake/everything-you-need-to-know-about-openai-gpt-54-3lgm)
-- [🔥Claude Opus 4.6 vs. Sonnet 4.6 Coding Comparison ✅](https://dev.to/tensorlake/claude-opus-46-vs-sonnet-46-coding-comparison-55jn)
 - [Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools](https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/)
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)

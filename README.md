@@ -78,6 +78,7 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [I Tested 7 Document Parsing APIs on Real Scanned PDFs &lpar;2026&rpar;: Code and Results](https://dev.to/shricodev/i-tested-7-document-parsing-apis-on-real-scanned-pdfs-2026-code-and-results-3h2b)
 - [DeepSeek Harness &lpar;DSH&rpar; vs Pi Agent: Everything you need to know](https://dev.to/composiodev/deepseek-harness-dsh-vs-pi-agent-everything-you-need-to-know-5bci)
 - [Pi Agent vs OpenCode after 100+ Hours of Real Use ✌️](https://dev.to/composiodev/pi-agent-vs-opencode-after-100-hours-of-real-use-1mh7)
 - [Pi Agent vs Claude Code After 100 Hours of Real Use 🔥](https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp)
@@ -90,7 +91,6 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 - [My speaker broke, so I built a LAN speaker](https://dev.to/shricodev/my-speaker-broke-so-i-built-a-lan-speaker-19nc)
 - [How to Automate Your Slack Workspace with OpenClaw and Composio 🚀](https://dev.to/composiodev/how-to-automate-your-slack-workspace-with-openclaw-and-composio-3lhc)
 - [Top 10 CLI Tools to Level-Up Claude Code](https://dev.to/composiodev/top-10-cli-tools-to-level-up-claude-code-1kf9)
-- [🚀 How to run a fully-autonomous company with OpenClaw 🦞](https://dev.to/composiodev/how-to-run-a-fully-autonomous-company-with-openclaw-ma5)
 - [Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools](https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/)
 - [How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support](https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/)
 - [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)

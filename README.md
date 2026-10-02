@@ -78,6 +78,7 @@ I like working on projects that are useful, a little unusual, and beyond the obv
 <a href="https://dev.to/shricodev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://www.freecodecamp.org/news/author/shricodev/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a><a href="https://shricodev.hashnode.dev"><img src="https://img.shields.io/badge/hashnode.dev-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes](https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/)
 - [How to Moderate Live Chat in Real Time with Jev and Composio &lpar;Discord + Twitch&rpar;](https://dev.to/composiodev/how-to-moderate-live-chat-in-real-time-with-jev-and-composio-discord-twitch-5ab0)
 - [I Tested 7 Document Parsing APIs on Real Scanned PDFs &lpar;2026&rpar;: Code and Results](https://dev.to/shricodev/i-tested-7-document-parsing-apis-on-real-scanned-pdfs-2026-code-and-results-3h2b)
 - [DeepSeek Harness &lpar;DSH&rpar; vs Pi Agent: Everything you need to know](https://dev.to/composiodev/deepseek-harness-dsh-vs-pi-agent-everything-you-need-to-know-5bci)
